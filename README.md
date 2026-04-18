@@ -10,14 +10,14 @@ Our goal for the 2026 season was to move away from "brute force" designs toward 
 
 ### 1.1 Comparison with Previous Design
 In our previous season, our robot was significantly larger and less efficient. 
-![Previous robot](old-robot.jpg)
+![Previous robot](old-robot.jpeg)
 * **Old Design:** Heavy chassis, high center of gravity, and complex but "sloppy" mechanical linkages. 
 * **New Design (Current):** 50% smaller, with a concentrated center of mass over the front axle and a reinforced drivetrain.
-![Comparison: Old vs New Robot](image-18-04-26-09-10.jpg)
-![Comparison: Old vs New Robot](image-18-04-26-09-10-1.jpg)
-![Comparison: Old vs New Robot](image-18-04-26-09-10-2.jpg)
-![Comparison: Old vs New Robot](image-18-04-26-09-10-3.jpg)
-![Comparison: Old vs New Robot](image-18-04-26-09-10-4.jpg)
+![Comparison: Old vs New Robot](image-18-04-26-09-10.jpeg)
+![Comparison: Old vs New Robot](image-18-04-26-09-10-1.jpeg)
+![Comparison: Old vs New Robot](image-18-04-26-09-10-2.jpeg)
+![Comparison: Old vs New Robot](image-18-04-26-09-10-3.jpeg)
+![Comparison: Old vs New Robot](image-18-04-26-09-10-4.jpeg)
 
 
 ---
