@@ -2,10 +2,12 @@
 **Team:** XCLNC Lunar 
 **Platform:** LEGO Spike Prime + Pixy2  
 **Programming Language:** Python (Pybricks)
-###The team
-We are the XCLNC Lunar team and we are competing in the 2026 WRO Future Engineers category.
+
 ---
 
+## The team
+We are the XCLNC Lunar team and we are competing in the 2026 WRO Future Engineers category.
+![team](team.jpeg)
 ## 1. Project Overview & The "Evolution" Strategy
 Our goal for the 2026 season was to move away from "brute force" designs toward high-precision engineering. We focused on three pillars: **Stability, Compactness, and Data Reliability.**
 
