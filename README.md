@@ -16,7 +16,7 @@ In our previous season, our robot was significantly larger and less efficient. 
 ![Previous robot](old-robot.jpeg)
 * **Old Design:** Heavy chassis, high center of gravity, and complex but "sloppy" mechanical linkages. 
 * **New Design (Current):** 50% smaller, with a concentrated center of mass over the front axle and a reinforced drivetrain.
-![Comparison: Old vs New Robot](robot-bobik-old.jpeg)
+![Comparison: Old vs New Robot](old-bobik.JPG)
 
 ---
 
