@@ -57,7 +57,10 @@ We use the **Pixy2.1 LEGO Edition** not just as a color sensor, but as a spatial
 * **Hub Placement:** The Spike Prime Hub is mounted horizontally to keep the center of gravity low.
 * **Power Management:** We use the 2100 mAh Li-ion battery. We found that the Pixy2 draws ~140mA; to prevent I2C brownouts, we ensure the battery never drops below 7.2V before a competitive run.
 ### 3.3 Motors
-We used an EV3 servo motor for the rear wheels because it has more power than the Lego Prime Spike motor. For the front wheels, we used a small Lego Spike Prime motor to keep the robot compact.
+We used an EV3 servo motor for the rear wheels because it has more power than the Lego Prime Spike motor. 
+* ![servo](servomotor.JPG)
+For the front wheels, we used a small Lego Spike Prime motor to keep the robot compact.
+* ![min](mini.JPG)
 ---
 
 ## 4. Software Engineering: The Python Advantage
