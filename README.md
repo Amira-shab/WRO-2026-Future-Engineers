@@ -40,7 +40,7 @@ This is our differential before we changed the design and made the work more bea
 ---
 ### 2.3 Adaptive Suspension System (Terrain Isolation)
 To maintain maximum stability on unpredictable track surfaces, we engineered an adaptive suspension mechanism. 
-![suspension](suspension)
+![suspension](suspension.JPG)
 * **The Problem:** When a rigid 4-wheeled robot hits a surface bump or an uneven mat joint, the entire chassis tilts. This temporarily lifts the other wheels off the ground, causing a severe drop in motor traction and inducing structural vibrations that introduce noise into the Gyro sensor readings.
 * **Our Solution:** We implemented an independent suspension system that allows a single wheel to compress and isolate the impact when driving over a bump. 
 * **Key Benefit:** Instead of forcing the entire chassis to tilt or climb the obstacle, only the affected wheel lifts to clear the unevenness. The remaining three wheels maintain 100% continuous contact with the surface. This ensures perfect odometry accuracy, rock-solid tire grip, and flawless line-tracking stability throughout the race.
