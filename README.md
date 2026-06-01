@@ -17,7 +17,7 @@ In our previous season, our robot was significantly larger and less efficient. 
 * **Old Design:** Heavy chassis, high center of gravity, and complex but "sloppy" mechanical linkages. 
 * **New Design (Current):** 50% smaller, with a concentrated center of mass over the front axle and a reinforced drivetrain.
 ![Comparison: Old vs New Robot](old-bobik.JPG)
-
+* **New Changes** This is what our robot looked like at the regional stage. Now we've decided to redesign it and add a suspension. This is necessary so the robot can read odometry more accurately and accurately.
 ---
 
 ## 2. Mobility Management: Mechanical Excellence
@@ -56,7 +56,8 @@ We use the **Pixy2.1 LEGO Edition** not just as a color sensor, but as a spatial
 ### 3.2 Electronics & Power Stability
 * **Hub Placement:** The Spike Prime Hub is mounted horizontally to keep the center of gravity low.
 * **Power Management:** We use the 2100 mAh Li-ion battery. We found that the Pixy2 draws ~140mA; to prevent I2C brownouts, we ensure the battery never drops below 7.2V before a competitive run.
-
+### 3.3 Motors
+We used an EV3 servo motor for the rear wheels because it has more power than the Lego Prime Spike motor. For the front wheels, we used a small Lego Spike Prime motor to keep the robot compact.
 ---
 
 ## 4. Software Engineering: The Python Advantage
