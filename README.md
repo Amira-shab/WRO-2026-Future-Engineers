@@ -35,7 +35,7 @@ During the prototyping phase, we conducted a study on steering geometries. While
 To ensure the robot doesn't skid during high-speed laps, we integrated a **LEGO Technic Differential**. 
 * **The Problem:** A solid axle forces both wheels to rotate at the same speed, causing the inner wheel to lose traction in turns.
 * **The Solution:** The differential allows the outer wheel to travel a longer path than the inner wheel. This results in smooth, predictable cornering and preserves the lifespan of our motors.
-![Differential Assembly](dif.jpeg)
+![Differential Assembly](dif.JPG)
 This is our differential before we changed the design and made the work more beautiful.
 ---
 ### 2.3 Adaptive Suspension System (Terrain Isolation)
